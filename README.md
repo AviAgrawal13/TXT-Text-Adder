@@ -13,3 +13,11 @@ For example, let's add .com, this would be the output.
 Hi.com    
 Bye.com     
 Cya.com      
+
+
+
+Directions of use, 
+
+MUST HAVE PYTHON DOWNLOADED!
+
+Download the folder like it is, then edit the script. Where it says .com, change it to whatever you would like. If you have any issues or would like some help, please create an issue.
